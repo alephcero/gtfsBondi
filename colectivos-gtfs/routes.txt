@@ -1,0 +1,77 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+22,70,"7","007","A - Laguna y Av.Directorio (Capital Federal) - Hospital Ferroviario (Capital Federal)",3
+580,70,"7","007","A - Laguna y Av.Directorio (Capital Federal) - Hospital Ferroviario (Capital Federal)",3
+23,70,"7","007","B - Fonrouge y Zelarrayan (Capital Federal) - Hospital Ferroviario (Capital Federal)",3
+581,70,"7","007","B - Fonrouge y Zelarrayan (Capital Federal) - Hospital Ferroviario (Capital Federal)",3
+26,39,"10","010","A - Palermo (Capital Federal) - Wilde (Pdo.de Avellaneda)",3
+584,39,"10","010","A - Palermo (Capital Federal) - Wilde (Pdo.de Avellaneda)",3
+56,81,"23","023","A - Barrio Pte.Rivadavia (Capital Federal) - Puerto Nuevo (Capital Federal)",3
+614,81,"23","023","A - Barrio Pte.Rivadavia (Capital Federal) - Puerto Nuevo (Capital Federal)",3
+60,1,"26","026","Barrio Rivadavia (Capital Federal) - Retiro (Capital Federal)",3
+618,1,"26","026","Barrio Rivadavia (Capital Federal) - Retiro (Capital Federal)",3
+106,75,"42","042","A - Pompeya (Cap.Fed.) - Ciudad Universitaria (Cap.Fed.) - por L.Lugones",3
+665,75,"42","042","A - Pompeya (Cap.Fed.) - Ciudad Universitaria (Cap.Fed.) - por L.Lugones",3
+107,75,"42","042","B - Pompeya (Cap.Fed.) - Ciudada Universitaria  (Cap.Fed.) - por La Pampa",3
+666,75,"42","042","B - Pompeya (Cap.Fed.) - Ciudada Universitaria  (Cap.Fed.) - por La Pampa",3
+108,75,"42","042","C-Cdad.Universitaria (Cap.Fed.)-Av.Acoyte y Av.Rivadavia (Cap.Fed.)",3
+667,75,"42","042","C-Cdad.Universitaria (Cap.Fed.)-Av.Acoyte y Av.Rivadavia (Cap.Fed.)",3
+109,75,"42","042","D-Cdad.Universitaria (Cap.Fed.)-Av.Acoyte y Av.Rivadavia (Cap.Fed.)",3
+668,75,"42","042","D-Cdad.Universitaria (Cap.Fed.)-Av.Acoyte y Av.Rivadavia (Cap.Fed.)",3
+110,12,"44","044","Nueva Pompeya (Capital Federal) - Estacion Belgrano (Capital Federal)",3
+669,12,"44","044","Nueva Pompeya (Capital Federal) - Estacion Belgrano (Capital Federal)",3
+111,50,"45","045","A - Ciudad Universitaria (Capital Federal) - Remedios de Escalada (Lanus)",3
+670,50,"45","045","A - Ciudad Universitaria (Capital Federal) - Remedios de Escalada (Lanus)",3
+112,50,"45","045","B - Hospital Ferroviario (Capital Federal) - Remedios de Escalada (Lanus)",3
+671,50,"45","045","B - Hospital Ferroviario (Capital Federal) - Remedios de Escalada (Lanus)",3
+113,50,"45","045","C - Ciudad Universitaria (Capital Federal) - Plaza Constitucion (Capital Federal)",3
+672,50,"45","045","C - Ciudad Universitaria (Capital Federal) - Plaza Constitucion (Capital Federal)",3
+114,50,"45","045","D - Ciudad Universitaria (Capital Federal) - Estacion Retiro (Capital Federal)",3
+673,50,"45","045","D - Ciudad Universitaria (Capital Federal) - Estacion Retiro (Capital Federal)",3
+681,56,"50","050","A-Av.Gral.Paz y Av.Eva Peron (Cap.Fed.)-Estacion Terminal de omn. Retiro (Cap.Fed.)",3
+121,56,"50","050","A-Av.Gral.Paz y Av.Eva Peron (Cap.Fed.)-Estacion Terminal de Omn. Retiro (Cap.Fed.)",3
+682,56,"50","050","B - Hospital Piñeyro (Cap.Fed.) - Estacion Terminal de omnibus Retiro (Cap.Fed.)",3
+122,56,"50","050","B - Hospital Piñeyro (Cap.Fed.) - Estacion Terminal de Omnibus Retiro (Cap.Fed.)",3
+158,49,"59","059","A - Estacion Buenos Aires (Capital Federal) - Olivos (Pdo.de Vte.Lopez)",3
+718,49,"59","059","A - Estacion Buenos Aires (Capital Federal) - Olivos (Pdo.de Vte.Lopez)",3
+159,49,"59","059","B - Estacion Buenos Aires (Capital Federal)-Olivos (Pdo.de Vte.Lopez)",3
+719,49,"59","059","B - Estacion Buenos Aires (Capital Federal)-Olivos (Pdo.de Vte.Lopez)",3
+160,49,"59","059","C - Estacion Buenos Aires (Capital Federal)-Estacion A. del Valle (Pdo.de Vte.Lopez)",3
+720,49,"59","059","C - Estacion Buenos Aires (Capital Federal)-Estacion A. del Valle (Pdo.de Vte.Lopez)",3
+759,66,"70","070","A - Barracas  (Capital Federal) - Est.Term. de omnibus Retiro (Capital Federal)",3
+199,66,"70","070","A - Barracas  (Capital Federal) - Est.Term. de Omnibus Retiro (Capital Federal)",3
+758,66,"70","070","B - Valentin Alsina (Capital Federal) - Est.Term. de omnibus Retiro (Capital Federal)",3
+198,66,"70","070","B - Valentin Alsina (Capital Federal) - Est.Term. de Omnibus Retiro (Capital Federal)",3
+206,78,"76","076","A - Nueva Pompeya (Capital Federal) - Saavedra (Capital Federal)",3
+766,78,"76","076","A - Nueva Pompeya (Capital Federal) - Saavedra (Capital Federal)",3
+207,78,"76","076","B - Nueva Pompeya (Capital Federal) - Saavedra (Capital Federal)",3
+767,78,"76","076","B - Nueva Pompeya (Capital Federal) - Saavedra (Capital Federal)",3
+323,12,"101","101","A - Barrio Samore (Capital Federal) - ETOR (Capital Federal) - por Flores",3
+882,12,"101","101","A - Barrio Samore (Capital Federal) - ETOR (Capital Federal) - por Flores",3
+325,12,"101","101","C - Plaza Miserere(Capital Federal) - ETOR (Capital Federal)",3
+884,12,"101","101","C - Plaza Miserere(Capital Federal) - ETOR (Capital Federal)",3
+324,12,"101","101","Necol 2444 Pdo.deLomas de Zamora)- ETOR (Capital Federal) - por Villa Soldati",3
+883,12,"101","101","Necol 2444 Pdo.deLomas de Zamora)- ETOR (Capital Federal) - por Villa Soldati",3
+403,78,"135","135","A - Puente Uriburu (Pdo. de Lanus) - Hospital Posadas (Pdo.de Moron)",3
+960,78,"135","135","A - Puente Uriburu (Pdo. de Lanus) - Hospital Posadas (Pdo.de Moron)",3
+437,73,"150","150","A - Villa Madero (Pdo.de La Matanza) - Hospital Ferroviario (Capital Federal)",3
+994,73,"150","150","A - Villa Madero (Pdo.de La Matanza) - Hospital Ferroviario (Capital Federal)",3
+438,73,"150","150","B - Villa Madero (Pdo.de La Matanza) - Hospital Ferroviario (Capital Federal)",3
+995,73,"150","150","B - Villa Madero (Pdo.de La Matanza) - Hospital Ferroviario (Capital Federal)",3
+478,28,"165","165","A-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+1036,28,"165","165","A-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+479,28,"165","165","B-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+1037,28,"165","165","B-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+480,28,"165","165","C - Nueva Pompeya (Capital Federal) - Burzaco (Pdo.de Alte.Brown)",3
+1038,28,"165","165","C - Nueva Pompeya (Capital Federal) - Burzaco (Pdo.de Alte.Brown)",3
+481,28,"165","165","D - Nueva Pompeya (Capital Federal)-Loma Verde  (Pdo.de Alte.Brown)",3
+1039,28,"165","165","D - Nueva Pompeya (Capital Federal)-Loma Verde  (Pdo.de Alte.Brown)",3
+482,28,"165","165","E-Nva.Pompeya (Capital Federal)-Est.Monte Grande  (Pdo.de Alte.Brown)",3
+1040,28,"165","165","E-Nva.Pompeya (Capital Federal)-Est.Monte Grande  (Pdo.de Alte.Brown)",3
+483,28,"165","165","F-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+1041,28,"165","165","F-Plaza Miserere (Capital Federal)-Mte.Grande (Pdo.de E.Echeverria)",3
+484,23,"166","166","A - Estacion Moron (Pdo. de Moron) - Estacion Tres de Febrero (Capital Federal) x",3
+1042,23,"166","166","A - Estacion Moron (Pdo. de Moron) - Estacion Tres de Febrero (Capital Federal) x",3
+485,23,"166","166","B - Barrio Nuevo (Pdo. de Merlo) - Estacion Tres de Febrero (Capital Federal)",3
+1043,23,"166","166","B - Barrio Nuevo (Pdo. de Merlo) - Estacion Tres de Febrero (Capital Federal)",3
+1271,23,"166","166","Metrobus",3
+1273,23,"166","166","Metrobus",3
